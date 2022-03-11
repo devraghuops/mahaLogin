@@ -1,6 +1,6 @@
 # MAHALogin
 this is for git hooks  of mahalogin
 
-1st commit raghu
+1st commit 
 
 # mahaLogin
